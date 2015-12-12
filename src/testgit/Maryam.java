@@ -3,7 +3,7 @@
 package testgit;
 
 
-public class Maryam {
+class Maryam {
     public void printWords(){
         System.out.println("My committed class");
     }   
