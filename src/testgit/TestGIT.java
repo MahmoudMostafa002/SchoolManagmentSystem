@@ -18,5 +18,6 @@ public class TestGIT {
         System.out.println("Hello Mostafa !");
         System.out.println("Hello Java");
         System.out.println("dsfkbsdk");
+        System.out.println("hamadaaaaaaaa");
     }
 }
