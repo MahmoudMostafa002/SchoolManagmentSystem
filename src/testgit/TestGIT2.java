@@ -10,5 +10,8 @@ package testgit;
  * @author Mostafa_ITI
  */
 public class TestGIT2 {
+
+    public TestGIT2() {
+    }
     
 }
