@@ -12,6 +12,7 @@ package testgit;
 public class Ramadan {
     public Ramadan(){
     System.out.println("Hello Guys !");
+    System.out.println();
     }
     
 }
