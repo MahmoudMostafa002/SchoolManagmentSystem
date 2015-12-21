@@ -13,6 +13,7 @@ public class Manal1 {
 
     public Manal1() {
         System.out.println("yarb noskt 4oya b2a :(");
+        System.out.println("2tlmy Ya Mana :)");
     }
     
 }
